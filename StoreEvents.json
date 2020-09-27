@@ -7,7 +7,7 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3200,
 		"karmatype": "Bad"
 	},
 	{
@@ -61,11 +61,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "flashstorm",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -77,17 +72,17 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 20000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 18000,
 		"karmatype": "Doom"
 	},
 	{
@@ -104,11 +99,6 @@
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animaltame",
@@ -136,18 +126,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -211,11 +196,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -232,7 +212,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -242,7 +222,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +242,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -296,7 +276,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
@@ -307,12 +287,12 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 400,
 		"karmatype": "Neutral"
 	},
 	{
@@ -326,10 +306,20 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
+		"abr": "randominspire",
+		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 64
 }
