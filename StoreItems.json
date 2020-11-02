@@ -4274,13 +4274,13 @@
 	},
 	{
 		"abr": "plasmascattergun",
-		"price": 3833,
+		"price": 9999,
 		"category": "Ranged weapons",
 		"defname": "VFE_Gun_PlasmaScattergun"
 	},
 	{
 		"abr": "plasmabeamrifle",
-		"price": 4167,
+		"price": 9999,
 		"category": "Ranged weapons",
 		"defname": "VFE_Gun_PlasmabeamRifle"
 	},
@@ -4292,7 +4292,7 @@
 	},
 	{
 		"abr": "plasmapiercer",
-		"price": 3833,
+		"price": 9999,
 		"category": "Ranged weapons",
 		"defname": "VFE_Gun_Plasmapiercer"
 	},
